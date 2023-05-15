@@ -2,7 +2,7 @@
 <h3 align="center">A full stack & Mobile developer from Israel</h3>
 
 - 🌱 I’m currently learning **TypeScript, Next.js** independently
-- 🌱 I’m already familar with **HTML, CSS, JavaScript, Node.js, React.JS, React Native, C# **
+- 🌱 I’m already familar with **HTML, CSS, JavaScript, Node.js, React.JS, React Native, C#**
 - 📫 How to reach me **romanbr87@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
