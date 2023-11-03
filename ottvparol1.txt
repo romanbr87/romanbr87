@@ -1,0 +1,23 @@
+name: dud
+
+
+
+//////////////////////////////////////////////////////////////////////
+Fedia123
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=m3u&output=hls
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=m3u&output=ts
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=ottplayer&output=hls
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=ottplayer&output=ts
+
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=m3u&output=hls&censored=0
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=m3u&output=ts&censored=0
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=ottplayer&output=hls&censored=0
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=ottplayer&output=ts&censored=0
+
+
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=m3u&output=vod
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=m3u&output=vodclouddy
+https://pl.ottglanz.tv/get.php?username=dud&password=7EX1SOW9LA&type=m3u&output=vodclouddy
+
+
+7EX1SOW9LA
