@@ -30,7 +30,8 @@
         "title": "קאנטרי קלאב",
         "city": "נוף הגליל",
         "type": "מנהל",
-        "tel1": "0507113688"
+        "tel1": "0507113688",
+        "active": true
       },
       {
         "title": "קישורית",
@@ -39,21 +40,24 @@
         "city": "נוף הגליל",
         "tel1": "0507113600",
         "whatsapp": "0507113600",
-        "website1": "https://www.instagram.com/ronenbr60/"
+        "website1": "https://www.instagram.com/ronenbr60/",
+        "active": true
       },
       {
         "name": "מיכאל אלבייטר",
         "title": "קאנטרי קלאב",
         "city": "נוף הגליל",
         "type": "מנהל",
-        "tel1": "0507113688"
+        "tel1": "0507113688",
+        "active": true
       },
       {
         "name": "מני בן חמו",
         "title": "דובר עירייה",
         "city": "נוף של הגליל",
         "type": "דובר העירייה",
-        "tel1": "0506113690"
+        "tel1": "0506113690",
+        "active": true
       },
       {
         "name": "ציפי אייזנשפיץ",
