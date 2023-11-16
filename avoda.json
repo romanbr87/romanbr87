@@ -21,16 +21,20 @@
         "type": "מורה פרטי למתמטיקה",
         "name": "מני גולן",
         "city": "נוף הגליל",
-        "tel1": "0507113600",
-        "whatsapp": "0507113600",
-        "website1": "https://www.instagram.com/ronenbr60/"
+        "tel1": "0597113600",
+        "whatsapp": "0597113600",
+        "website1": "https://www.instagram.com/ronenbr60/",
+        "comment": "עסק לדוגמה",
+        "active": true
       },
       {
-        "name": "מיכאל אלבייטר",
-        "title": "קאנטרי קלאב",
+        "name": "יהונתן ג'ונסון",
+        "title": "מורה לחליל צד",
         "city": "נוף הגליל",
-        "type": "מנהל",
-        "tel1": "0507113688"
+        "type": "מורה לחליל",
+        "tel1": "0597113638",
+        "comment": "עסק לדוגמה",
+        "active": true
       }
     ]
   }
