@@ -67,7 +67,7 @@
         "city": "נוף הגליל",
         "type": "מנהל",
         "tel1": "0507113688",
-        "active": true
+        "active": false
       },
       {
         "title": "קישורית",
@@ -77,7 +77,7 @@
         "tel1": "0507113600",
         "whatsapp": "0507113600",
         "website1": "https://www.instagram.com/ronenbr60/",
-        "active": true
+        "active": false
       },
       {
         "name": "מיכאל אלבייטר",
@@ -85,7 +85,7 @@
         "city": "נוף הגליל",
         "type": "מנהל",
         "tel1": "0507113688",
-        "active": true
+        "active": false
       },
       {
         "name": "מני בן חמו",
@@ -93,7 +93,7 @@
         "city": "נוף של הגליל",
         "type": "דובר העירייה",
         "tel1": "0506113690",
-        "active": true
+        "active": false
       },
       {
         "name": "ציפי אייזנשפיץ",
